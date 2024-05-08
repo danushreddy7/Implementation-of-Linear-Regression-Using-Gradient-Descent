@@ -20,7 +20,11 @@ To write a program to predict the profit of a city using the linear regression m
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+
+
 data=pd.read_csv("ex1.txt",header=None)
+
+
 plt.scatter(data[0],data[1])
 plt.xticks(np.arange(5,30,step=5))
 plt.yticks(np.arange(-5,30,step=5))
@@ -28,17 +32,28 @@ plt.xlabel("Population of City(10,000s)")
 plt.ylabel("Profit ($10,000)")
 plt.title("Profit Prediction")
 
+
 def computeCost(X,y,theta):
     m=len(y) 
     h=X.dot(theta) 
     square_err=(h-y)**2
     return 1/(2*m)*np.sum(square_err)
+
+    
 data_n=data.values
 m=data_n[:,0].size
+
+
 X=np.append(np.ones((m,1)),data_n[:,0].reshape(m,1),axis=1)
+
+
 y=data_n[:,1].reshape(m,1)
+
+
 theta=np.zeros((2,1))
 computeCost(X,y,theta)
+
+
 def gradientDescent(X,y,theta,alpha,num_iters):
     m=len(y)
     J_history=[] #empty list
