@@ -22,6 +22,14 @@ Program to implement the linear regression using gradient descent.
 Developed by:T DANUSH REDDY
 RegisterNumber:212223040029  
 */
+
+
+
+
+
+
+
+
 ![image](https://github.com/danushreddy7/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/149035740/4901b6f5-a8ca-4167-a4f2-f8c65c02b35f)
 
 ```
