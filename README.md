@@ -22,25 +22,9 @@ Program to implement the linear regression using gradient descent.
 Developed by:T DANUSH REDDY
 RegisterNumber:212223040029  
 */
-![image](https://github.com/danushreddy7/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/149035740/af7a44c7-23ae-404a-b0e4-d88373a76e84)
+![image](https://github.com/danushreddy7/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/149035740/4901b6f5-a8ca-4167-a4f2-f8c65c02b35f)
 
 ```
 
 ## Output:
-# profile prediction:
-![image](https://github.com/danushreddy7/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/149035740/e7ca3b79-a2f8-463c-be8c-d51e3ffe7c2b)
-# Function:
-![image](https://github.com/danushreddy7/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/149035740/2fe52a7b-abcf-4f3c-acc6-f0d7ac72307c)
-# Gradient descent:
-![image](https://github.com/danushreddy7/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/149035740/2274773f-04f9-4e3a-9276-8aa0e168fb87)
-# cost function using gradient descent:
-![image](https://github.com/danushreddy7/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/149035740/8253f483-1179-4953-a1c7-35bc33f2c84b)
-# linear regression using profile prediction:
-![image](https://github.com/danushreddy7/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/149035740/6442bb52-fb11-4814-a8d1-b6009f453fab)
-# profile presiction for the population of 35000:
-![image](https://github.com/danushreddy7/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/149035740/9f7ba273-3dbc-4619-8629-34d5e15ed8f3)
-# profile prediction for the population of 70000:
-![image](https://github.com/danushreddy7/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/149035740/3a7439f7-2d3a-4bf3-b9ef-f1faa02ac1b9)
-
-## Result:
-Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
+![311166465-9680fa57-9bfb-45be-a743-4ebc1d4087dd](https://github.com/danushreddy7/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/149035740/4d66ce1e-c44c-4c85-b4b6-e2c562b13179)
