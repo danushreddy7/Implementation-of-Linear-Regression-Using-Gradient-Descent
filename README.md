@@ -62,6 +62,6 @@ pre=scaler.inverse_transform(prediction)
 print(f"Predicted value: {pre}")
 
 '''
+## output:
+![311166465-9680fa57-9bfb-45be-a743-4ebc1d4087dd](https://github.com/danushreddy7/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/149035740/feab3a48-672d-459f-9bd4-cec2015b2192)
 
-## Output:
-![311166465-9680fa57-9bfb-45be-a743-4ebc1d4087dd](https://github.com/danushreddy7/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/149035740/4e8c695e-728f-4e70-99fd-8064ac35ad51)
